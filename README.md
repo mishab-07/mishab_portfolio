@@ -1,3 +1,3 @@
 # Hi i'm mishab
-## Data analyst
+## Data analyst intern
 ### Rows & columns
