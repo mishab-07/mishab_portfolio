@@ -1,5 +1,24 @@
 title: Mizhab | Data Analytics Portfolio
-description: CRM & Inventory Dashboards · Power BI · SQL · Tableau
-theme: minima
+description: CRM & Inventory Dashboards · Power BI · SQL · Tableau · Internship Insights
+theme: jekyll-theme-cayman
+
+author: Mizhab
+email: mishabpa8921@gmail.com
+url: "https://mishab-07.github.io"
+baseurl: "/mishab_portfolio"
+
+markdown: kramdown
+highlighter: rouge
+
+social_links:
+  linkedin: https://www.linkedin.com/in/mishab-p-2079b5327
+  github: https://github.com/mishab-07
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
