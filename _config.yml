@@ -1,6 +1,5 @@
-title: mishab
-logo: DSC_0080.JPG
-theme: jekyll-theme-minimal
-ReadMe
-# 👋 HI, Iam Mishab 
- Data Analyst | Data-Driven Decision Making | Transforming Insights into Impact  
+title: Mizhab | Data Analytics Portfolio
+description: CRM & Inventory Dashboards · Power BI · SQL · Tableau
+theme: minima
+plugins:
+  - jekyll-feed
