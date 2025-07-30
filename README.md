@@ -12,5 +12,5 @@ This portfolio repository showcases my work in CRM analytics, inventory forecast
 Power BI · Tableau · SQL · MySQL · Excel · GitHub Pages
 
 ## 🌐 Connect With Me:
-- [LinkedIn](www.linkedin.com/in/mishab-p-2079b5327)
+- [LinkedIn](https://www.linkedin.com/in/mishab-p-2079b5327)
 - [Portfolio Website](https://mishab-07.github.io/mishab_portfolio)
